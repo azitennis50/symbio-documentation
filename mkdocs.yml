@@ -131,6 +131,15 @@ nav:
       - Stereotypes:
         - Creating stereotypes: admin/administration/stereotypes/creating-stereotypes.md
         - Use stereotypes: admin/administration/stereotypes/use-stereotypes.md
+    - Features:
+      - General design:
+        - Architectural Permissions:
+        - Document digitalization:
+        - Document digitalization on all facets:
+        - Facet Permissions:
+        - Group management for favorites:
+        - Multiselect list feature:
+        - User filters:
   - Developer:
     - Introduction: developer/index.md
     - Getting Started: developer/getting-started.md
