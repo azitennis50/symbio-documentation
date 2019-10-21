@@ -38,9 +38,13 @@ nav:
         - Example - Symbio & Azure AD: admin/installation-guide/saml-configuration/5_example-aad.md
         - Checklist: admin/installation-guide/saml-configuration/6_checklist.md
     - Services:
+      - Archiving process portal:
+        - Export of process portal for archiving: admin/services/archiving-process-portal.md
       - Atlassian Connector:
         - Administration guide: admin/services/atlassian-connector/administration_guide.md
         - Using Symbio to Atlassian: admin/services/atlassian-connector/using_symbioatlassian.md
+      - Import of Visio (vsdx) files:
+        - Import of vsdx files: admin/services/import-of-vsdx-files.md
       - Intrafind Indexer:
         - Introduction: admin/services/intrafind-indexer/index.md
         - Installation: admin/services/intrafind-indexer/installation.md
